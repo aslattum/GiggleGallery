@@ -12,8 +12,8 @@ GiggleGallery is a fun and engaging photo gallery app designed specifically for 
 
 ## Requirements
 
-- iOS 14.0 or later
-- Xcode 12.0 or later
+- iOS 18.0 or later
+- Xcode 16.0 or later
 
 ## Installation
 
